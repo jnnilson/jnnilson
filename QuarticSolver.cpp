@@ -1,9 +1,12 @@
 #include "includes.h"
 
 /***********************************************************
+
+I used this Quartic Solver to find the launch velocity required to make a perfect shot from anywhere on a basketball court. I found the code on a Quake user forum and it was written in Javascript. I would provide credit but the post is long gone. I rewrote the code in C# and found some errors in the original solver, calculateQ, and wrote a fix in calculateQ2. The following text is from the original author of the code:
+
 How To Use It
 `
-Simply call the function GetShootVec() with the following parameters:
+Simply call the function -  GetSolutionVector() with the following parameters:
 
 StartLoc is the world location where the projectile is going to be spawned at.
 
@@ -26,10 +29,10 @@ Speed
 
 If the target is stationary or bLeadTarget is false, then the quadratic formula can be applied to the 4th degree polynomial 
 that is the core of this algorithm. (the coefficients of t^3 and t^1 become 0). The algorithm takes roughly 0.20 ms to 
-complete (on an AMD Athlon XP 2100+ test machine), equivilent to a drop from 80.0 to 78.7 fps if this GetShootVec() is called once per frame.
+complete (on an AMD Athlon XP 2100+ test machine), equivilent to a drop from 80.0 to 78.7 fps if this -  GetSolutionVector() is called once per frame.
 
 If velocity prediction is needed, then the quartic formula (calculateQ) must be applied. This increases the algorithm's time 
-to 0.28 ms (on an AMD Athlon XP 2100+ test machine),, equivilent to a drop from 80.0 to 78.2 fps if this GetShootVec() is 
+to 0.28 ms (on an AMD Athlon XP 2100+ test machine),, equivilent to a drop from 80.0 to 78.2 fps if this -  GetSolutionVector() is 
 called once per frame.
 Falling Targets
 
@@ -626,7 +629,7 @@ void QuarticSolver::calculateQ2(double A, double B, double C, double D, double E
  -dest: Location where the projectile will collide with Target
  -returns vector describing direction for projectile to leave at
 */
-Vector3 QuarticSolver::GetShootVect(Vector3 StartLoc, Vector3 EndLoc, double ProjSpeed, 
+Vector3 QuarticSolver::-  GetSolutionVectort(Vector3 StartLoc, Vector3 EndLoc, double ProjSpeed, 
 										   Vector3 Gravity, Vector3 targetVelocity, 
 										   bool FallingPhysics, bool bLeadTarget, Vector3& Dest)
 {

@@ -2,7 +2,11 @@
 
 /***********************************************************
 
-I used this Quartic Solver to find the launch velocity required to make a perfect shot from anywhere on a basketball court. I found the code on a Quake user forum and it was written in Javascript. I would provide credit but the post is long gone. I rewrote the code in C# and found some errors in the original solver, calculateQ, and wrote a fix in calculateQ2. The following text is from the original author of the code:
+I used this Quartic Solver to find the launch velocity required to make a perfect shot from anywhere on a basketball court. 
+I found the code on a Quake user forum and it was written in Javascript. 
+I would provide credit but the post is long gone. 
+I rewrote the code in C# and found some errors in the original solver, calculateQ, and wrote a fix in calculateQ2. 
+The following text is from the original author of the code:
 
 How To Use It
 `

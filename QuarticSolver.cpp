@@ -1,133 +1,12 @@
 #include "includes.h"
 
 /***********************************************************
-
-I used this Quartic Solver to find the launch velocity required to make a perfect shot from anywhere on a basketball court. 
-I found the code on a Quake user forum and it was written in Javascript. 
-I would provide credit but the post is long gone. 
-I rewrote the code in C# and found some errors in the original solver, calculateQ, and wrote a fix in calculateQ2. 
-The following text is from the original author of the code:
-
-How To Use It
-`
-Simply call the function -  GetSolutionVector() with the following parameters:
-
-StartLoc is the world location where the projectile is going to be spawned at.
-
-EndLoc is the world Location that is being targetted (it should lie within the targetted actor)
-
-ProjSpeed is speed at which the projectile being fired at
-
-Gravity is a vector describing any uniform acceleration the projectile is under (gravity, "english", etc.)
-
-Target is the actor being targetted. Generally it should be a pawn, but any class will work.
-
-bLeadTarget. If this is true, then "velocity prediction" will occur (that is the projectile will be fired ahead of the target and still collide withit, assuming its velocity does not change in a nonpredictable way. If false, the projectile is guarenteed to collide with the targetted location
-
-The function will return a vector in the direction the projectile be launched at and with a magnitude equal to the speed of the projectile (as passed in the parameters).
-
-In addition, a vector dest is returned. This specifies the world location where the projectile will collide with the Target
-(if the target is moving and bLeadTarget is enabled this vector will differ from endloc).
-Notes
-Speed
-
-If the target is stationary or bLeadTarget is false, then the quadratic formula can be applied to the 4th degree polynomial 
-that is the core of this algorithm. (the coefficients of t^3 and t^1 become 0). The algorithm takes roughly 0.20 ms to 
-complete (on an AMD Athlon XP 2100+ test machine), equivilent to a drop from 80.0 to 78.7 fps if this -  GetSolutionVector() is called once per frame.
-
-If velocity prediction is needed, then the quartic formula (calculateQ) must be applied. This increases the algorithm's time 
-to 0.28 ms (on an AMD Athlon XP 2100+ test machine),, equivilent to a drop from 80.0 to 78.2 fps if this -  GetSolutionVector() is 
-called once per frame.
-Falling Targets
-
-If a target is falling, the algorithm will verify that the target will not land before the projectile reaches it. If it is 
-determined that the target will land, then the target's position will be re-evaluated, assuming any movement made on the 
-ground is modeled under phys_walking. (thus, this algorithm likely will cause the fired projectile to miss a bBounce=true projectile target).
-
-Please note that it is assumed that the net acceleration of the target is equal to the gravity vector of the projectile. If 
-this is not the case, the code should not be too hard to modify.
-Out of Range Targets
-
-Should a target be out of range, this algorithm will attempt to bring the projectile as close as possible to the target. It 
-does make the "appoximate" assumption that the projectile being fired will travel in an "approximately" straight line at its specifified speed toward the target.
-
-Furthermore, the out-of-range routine assumes that the projectile's acceleration direction passed is parallel to the Z axis 
-and pointed downward. It should not be too hard to extend this code to handle different acceleration.
-Projectiles under constant acceleration
-
-If you wish your projectile to undergo other constant acceleration (that is curving), this is entire possible. Simply be sure
-that the gravity vector reflects this. Please note though that the Out Of Range routine does not properly handle this.
-That structure that has nothing more than an array
-
-I was thinking of eventually adding other variables to that structure, but I'm not sure if that will ever be needed. Feel 
-free to remove the structure altogether and just make the variable the array.
-The Quartic Equation solver
-
-It is converted javascript code that is available on the internet (used with permission). Note that the code is highly 
-unoptimized. Feel free to fix that.
-How does this work?
-Physics
-
-Basically nothing more than simple kinematics.
-
-Abbriviation notes:
-
-D=Displacement
-
-Vp=launch velocity of Projectile
-
-Vps = launch speed of projectile
-
-Va=velocity of target
-
-t=time
-
-G=acceleration of projectile
-
-The displacement of a projectile can be described with the following vector equation:
-
-D=Vp*t + 0.5*G*t^2
-
-The size of V must be the speed of the projectile.
-
-From this, two equations (four in scalar form) can be derived:
-
-vsize(Vp) = Vp
-
-Vp*t + 0.5*G*t^2 = Va*t + D
-
-(Note that in the case where the target is also falling (under the same acceleration as the projectile), G becomes 0.)
-
-After a bunch of math, the following equation pops out:
-
-0=0.25*(G dot G)*t^4+((-G) dot Va)*t^3 + ((Va dot Va) - Vps^2 + (-G) dot D) * t^2 + 2*(Va dot D)*t + (D^2)
-
-This is a 4th degree polynomial, which can be solved with the Quartic equation.
-
-In the case when Va = 0 (stationary or no leading), the t and t^3 terms become 0, allowing the much nicer
-quadratic equation to be used. (the result simply needs to be squarerooted).
-
-Once the time is found, the launch velocity is easily calculated (by using the above simultaneous equations):
-
-  Vp= normal(D/lowestpostitivetime + Vp - 0.5*Gravity*lowestpostitivetime )*Vps
-
-And that's pretty much it. The details of the code should be explained well enough through comments.
-
-******************************************************************************************************/
-
-//QuarticSolver* QuarticSolver::sInstance = 0;
-//
-//QuarticSolver& gFiringSolution
-//{
-//	return *sInstance;
-//}
-
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+************************************************************/
 QuarticSolver::QuarticSolver(void)
 {
-	//if(sInstance == 0)
-	//{
-	//	sInstance = new QuarticSolver();
-	//}
+
 }
 
 QuarticSolver::~QuarticSolver(void)
@@ -135,7 +14,6 @@ QuarticSolver::~QuarticSolver(void)
 	//delete sInstance;
 }
 
-//quadratic solver (using everybody's favorite algebra formula)
 void QuarticSolver::calculateQuadRoots(double a, double b, double c, QuartSolution3& Q)
 {
     double sqterm;

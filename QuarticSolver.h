@@ -1,5 +1,8 @@
 #pragma once
-
+/***********************************************************
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+************************************************************/
 ////////////////////////////////////////////////////////////
 //solutions to quart!
 class QuartSolution3

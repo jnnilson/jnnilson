@@ -9,7 +9,7 @@
 
 <p>So I thought of what game I could make that's simple, relaxing and no one has done before with an eye on starting an entire company building games for this new sector. I came up with practice putting and wrote a very simple, one hole, <b><a href="https://jnnilson.github.io/JustPutting/">Proof of Concept</a></b> to show what such a game would look like. Currently no mobile Golf App let's you just practice putting, there's either Mini-Golf which isn't really putting or complete golf simulators like Golden Tee which only let you putt while you're on a green during round of golf.</p>  
 
-<p>Intrigued at seeing casual games go mainstream, I stepped back and saw the potential of a <b>larger business making an entire suite of hybrid-casual games</b>. I came up with the business name <b>JustRelaxing</b> for the hybrid-casual, anti-stress mobile game sector which arguably is about to take off. So if you're an Angle Investor or VC and want to get ahead of the curve feel free to reach out to me on <a href="https://www.linkedin.com/in/john-nilson-1978ab9/">LinkedIn</a>. I have over 20 years of experience in the software industry and can deliver great software fast.</p>
+<p>Intrigued at seeing casual games go mainstream, I stepped back and saw the potential of a <b>larger business making an entire suite of hybrid-casual games</b>. I came up with the business name <b>JustRelaxing</b>. So if you're an Angle Investor or VC and want to get ahead of the curve feel free to reach out to me on <a href="https://www.linkedin.com/in/john-nilson-1978ab9/">LinkedIn</a>. I have over 20 years of experience in the software industry and can deliver great software fast.</p>
 
 <p><h3>Credibility</h3></p>
 

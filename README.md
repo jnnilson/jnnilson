@@ -5,7 +5,7 @@
 
 <p><h3><b>Context</b></h3></p>
 
-<p>How did I get here? In September of 2024 I saw mobile app developer JindoBlu generate over $500,000 per day in <a href="https://youtu.be/q9groW1mOnY" target="_blank">revenue</a> for their Offline Games - No Wifi app which went live <a href="https://app.sensortower.com/android/publisher/jindoblu/JindoBlu">a year earlier</a>. What's truly remarkable is JindoBlu did this amid record layoffs in the Video Game industry where big budget studios are losing lots of money. The conclusion seems obvious, people want simpler games.</p>
+<p>How did I get here? In September of 2024 I saw mobile app developer JindoBlu generate over $500,000 per day in <a href="https://youtu.be/q9groW1mOnY" target="_blank">ad revenue</a> for their Offline Games - No Wifi app which went live <a href="https://app.sensortower.com/android/publisher/jindoblu/JindoBlu">a year earlier</a>. What's truly remarkable is JindoBlu did this amid record layoffs in the Video Game industry where big budget studios are losing lots of money. The conclusion seems obvious, people want simpler games.</p>
 
 <p>Yet when I tried JindoBlu apps I got bored. They were <b>too simple</b>, their <a href="https://youtu.be/B1PZZviPYgY">golf app</a> was a perfect example. So I tried the top five Golf Apps everyone's heard of. <b><i>They</i></b> were too busy and complex, I uninstalled all of them after 10 minutes. So I thought what could fill the void. I came up with practice putting and wrote a very simple, one hole, <b><a href="https://jnnilson.github.io/JustPutting/">Proof of Concept</a></b> to show what such a game would look like. Currently no mobile Golf App let's you just practice putting.</p>  
 

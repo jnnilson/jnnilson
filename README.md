@@ -1,5 +1,5 @@
 <p align="center"><h3><b>Executive Summary</b></h3></p>
-<p>Hybrid-casual is the new hyper-casual. Should I wait another year or seek funding <a href="https://youtu.be/bNpx7gpSqbY?t=209">right now</a>?</p>
+<p>Hybrid-casual is the new hyper-casual but should I wait another year or seek funding <a href="https://youtu.be/bNpx7gpSqbY?t=209">right now</a>?</p>
   
 <p><a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
 

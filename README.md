@@ -3,7 +3,7 @@
   
 <p>The only avenue for growth in gaming is to make gamers out of people who wouldn't normally play mobile games.</p>
 
-<p>Let's start with just putting....JustPutting: <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
+<p>Let's start with putting....JustPutting: <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
 
 <p><h3><b>Context</b></h3></p>
 

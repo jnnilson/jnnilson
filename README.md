@@ -1,7 +1,7 @@
 <p align="center"><h3><b>Executive Summary</b></h3></p>
 <p>Hybrid-casual is the new hyper-casual but should I wait another year or seek funding <a href="https://youtu.be/bNpx7gpSqbY?t=209">right now</a>?</p>
   
-<p>The only avenue for growth in gaming is to make gamers out of people who wouldn't normally play a mobile games. People want simplicity, details here: <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
+<p>The only avenue for growth in gaming is to make gamers out of people who wouldn't normally play a mobile games. Details here: <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
 
 <p><h3><b>Context</b></h3></p>
 

@@ -1,9 +1,10 @@
 <p align="center"><h3><b>Executive Summary</b></h3></p>
-<p>Hybrid-casual is the <a href="https://unity.com/blog/the-shift-from-hyper-to-hybrid-games-and-why-it-matters-for-everyone">new</a> hyper-casual. Given <a href="https://youtu.be/bNpx7gpSqbY?t=209">timing</a> is everything there is no time to waste.</p>
-  
-<p>Let's try putting....JustPutting: <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
 
-<p>Renenue: Ad Sales, In App Purchases</p>
+<p>Hybrid-casual is the <a href="https://unity.com/blog/the-shift-from-hyper-to-hybrid-games-and-why-it-matters-for-everyone">new</a> hyper-casual. Given <a href="https://youtu.be/bNpx7gpSqbY?t=209">timing</a> is everything there is no time to waste. Let's try putting....JustPutting: <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
+  
+<p>Revenue: Ad Sales, In App Purchases</p>
+
+<p>Secret Sauce: Player gets bored with default putting green, can buy more green including copies of greens from anywhere in the world, >200,000 greens. Use Web3 smart contracts to let players build those greens themselves and generate revenue from them.</p>
 
 <p><h3><b>Context</b></h3></p>
 

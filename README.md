@@ -1,7 +1,9 @@
 <p align="center"><h3><b>Executive Summary</b></h3></p>
-<p>Hybrid-casual is the <a href="https://unity.com/blog/the-shift-from-hyper-to-hybrid-games-and-why-it-matters-for-everyone">new</a> hyper-casual. Given <a href="https://youtu.be/bNpx7gpSqbY?t=209">timing</a> there is no time to waste.</p>
+<p>Hybrid-casual is the <a href="https://unity.com/blog/the-shift-from-hyper-to-hybrid-games-and-why-it-matters-for-everyone">new</a> hyper-casual. Given <a href="https://youtu.be/bNpx7gpSqbY?t=209">timing</a> is everything there is no time to waste.</p>
   
-<p>What would a hybrid-casual game look like? Let's try putting....JustPutting: <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
+<p>Let's try putting....JustPutting: <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
+
+<p>Renenue: Ad Sales, In App Purchases</p>
 
 <p><h3><b>Context</b></h3></p>
 

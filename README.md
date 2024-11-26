@@ -6,7 +6,7 @@
 
 <p><b>Secret Sauce</b>: Think Blockchain Digital Assets. When player gets bored they can buy more greens including <i>copies of real ones</i> from anywhere in the world, the <a href="https://www.usgs.gov/the-national-map-data-delivery/gis-data-download">elevation data</a> about which is often <a href="https://www.usgs.gov/faqs/are-there-any-costs-or-restrictions-usage-data-downloaded-national-map">freely available</a>. There are >300,000 putting greens in the world, adding their digital copy to the Blockchain is a perfect fit for the technology.</p>
 
-<p><b>Proposal</b>: Build another Proof of Concept using Web3 smart contracts to let players build new greens in the game itself. Greens are now digital assets and player can earn money selling them to other players via in app purchase. JustPutting is really two games: 1) Putting 2) Building Greens in which the players can grow the game themselves without any need for further development, a potentially lucrative <b>Economy of Scale</b>.</p>
+<p><b>Proposal</b>: Build another Proof of Concept using Web3 smart contracts to let players build new greens in the game itself. Greens are now digital assets and player can earn money selling them to other players via in app purchases. JustPutting is really two games: 1) Putting 2) Building Greens in which the players can grow the game themselves without any need for further development, a potentially lucrative <b>Economy of Scale</b>.</p>
 
 <p><h3><b>Context</b></h3></p>
 

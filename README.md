@@ -4,7 +4,7 @@
   
 <p>Revenue: Ad Sales, In App Purchases</p>
 
-<p>Secret Sauce: Player gets bored with default putting green, can buy more green including copies of greens from anywhere in the world, >200,000 greens. Use Web3 smart contracts to let players build those greens themselves and generate revenue from them.</p>
+<p>Secret Sauce: Player gets bored with default putting green, can buy more green including copies of greens from anywhere in the world, >200,000 greens. Use Web3 smart contracts to let players build and own those greens, now digital assets, themselves and earn money selling access to them to other players.</p>
 
 <p><h3><b>Context</b></h3></p>
 

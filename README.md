@@ -6,7 +6,7 @@
 
 <p><b>Secret Sauce</b>: When player gets bored with default putting green, can buy more green including copies of greens from anywhere in the world, >200,000 greens, the <a href="https://www.usgs.gov/the-national-map-data-delivery/gis-data-download">elevation data</a> about which is often <a href="https://www.usgs.gov/faqs/are-there-any-costs-or-restrictions-usage-data-downloaded-national-map">freely available</a>.</p>
 
-<p><b>Proposal</b>: Build a Proof of Concept using Web3 smart contracts to let players build and own greens themselves, now digital assets, and earn money selling them to other players via in app purchase. JustPutting is really two games: 1) Putting 2) Building Greens in which the players can grow the game themselves without any need for further development, a potentially lucrative <b>Economy of Scale</b>.</p>
+<p><b>Proposal</b>: Build another Proof of Concept using Web3 smart contracts to let players build and own greens themselves, now digital assets, and earn money selling them to other players via in app purchase. JustPutting is really two games: 1) Putting 2) Building Greens in which the players can grow the game themselves without any need for further development, a potentially lucrative <b>Economy of Scale</b>.</p>
 
 <p><h3><b>Context</b></h3></p>
 

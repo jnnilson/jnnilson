@@ -2,12 +2,6 @@
 
 <p>Hybrid-casual is the <a href="https://unity.com/blog/the-shift-from-hyper-to-hybrid-games-and-why-it-matters-for-everyone">new</a> hyper-casual. Given <a href="https://youtu.be/bNpx7gpSqbY?t=209">timing</a> is everything there is no time to waste. Let's try putting....JustPutting(<a href="https://jnnilson.github.io/JustPutting/">Proof of Concept</a>)...more details availabe in <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
   
-<p><b>Revenue</b>: Ad Sales, In App Purchases</p>
-
-<p><b>Secret Sauce</b>: Think Blockchain Digital Assets. When player gets bored they can buy more greens including <i>copies of real ones</i> from anywhere in the world, the <a href="https://www.usgs.gov/the-national-map-data-delivery/gis-data-download">elevation data</a> about which is often <a href="https://www.usgs.gov/faqs/are-there-any-costs-or-restrictions-usage-data-downloaded-national-map">freely available</a>. There are >300,000 putting greens in the world, adding their digital copy to the Blockchain is a perfect fit for the technology.</p>
-
-<p><b>Proposal</b>: Build another Proof of Concept using Web3 smart contracts to let players build new greens in the game itself. Greens are now digital assets and player can earn money selling them to other players via in app purchases. JustPutting is really two games: 1) Putting 2) Building Greens in which the players can grow the game themselves without any need for further development, a potentially lucrative <b>Economy of Scale</b>.</p>
-
 <p><h3><b>Context</b></h3></p>
 
 <p>How did I get here? In September of 2024 I saw mobile app developer JindoBlu generate over $500,000 per day in <a href="https://youtu.be/q9groW1mOnY" target="_blank">ad revenue</a> for their Offline Games - No Wifi app which went live <a href="https://app.sensortower.com/android/publisher/jindoblu/JindoBlu">a year earlier</a>. What's truly remarkable is JindoBlu did this amid record layoffs in the Video Game industry where big budget studios are losing lots of money. The conclusion seems obvious, people want simpler games.</p>

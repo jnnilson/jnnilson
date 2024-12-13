@@ -6,8 +6,6 @@
 
 <p><b>One Sentence Pitch</b>: People spend billions every year chasing this <a href="https://youtu.be/cleTCtCNeQ0">addiction</a>.</p>
 
-<p><a href="https://youtu.be/bNpx7gpSqbY?t=209">Timing</a> is everything</p>
-  
 <p><h3><b>Context</b></h3></p>
 
 <p>How did I get here? In September of 2024 I saw mobile app developer JindoBlu generate over $500,000 per day in <a href="https://youtu.be/q9groW1mOnY" target="_blank">ad revenue</a> for their Offline Games - No Wifi app which went live <a href="https://app.sensortower.com/android/publisher/jindoblu/JindoBlu">a year earlier</a>. What's truly remarkable is JindoBlu did this amid record layoffs in the Video Game industry where big budget studios are losing lots of money. The conclusion seems obvious, people want simpler games.</p>
@@ -19,4 +17,6 @@
 <p><h3>Credibility</h3></p>
 
 <p>In 2014 I wrote a hyper-casual "Sports Motion Editor" <a href="https://www.youtube.com/watch?v=jPMEMKzQ2cI&list=PLzv9Ec4NAYmEBrqGg8LMDTIR4nKOnzU6Y&index=3" target="_blank" rel="noopener noreferrer">game</a> but <i>gave up on it</i> because it was too hyper-casual. Imagine my surprise when it became a valid market segment. That's part of the reason I'm pitching this new idea. <i>I was right.</i> Why aren't I pitching the motion editor idea? Because I doubted myself so much I deleted the code a few years ago to save space on Google drive. All I have left are the videos and of course the knowledge of how I wrote it. It could easily be re-written, I'm just going with an even simpler idea because that's the name of the game now, less is more. That being said the idea has huge potential, like practice putting, no one does it. Unlike practice putting which only applies to golf, the motion editor code could be transferred to any human movement.</p>
+
+<p><a href="https://youtu.be/bNpx7gpSqbY?t=209">Timing</a> is everything</p>
 

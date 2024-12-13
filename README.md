@@ -2,6 +2,8 @@
 
 <p>Hybrid-casual is the <a href="https://unity.com/blog/the-shift-from-hyper-to-hybrid-games-and-why-it-matters-for-everyone">new</a> hyper-casual. <a href="https://github.com/jnnilson/jnnilson/blob/main/PitchDeck.pdf">Pitch Deck</a></p>
 
+<p><a href="https://jnnilson.github.io/JustPutting/">Proof of Concept</a></p>
+
 <p><b>One Sentence Pitch</b>: People spend billions every year chasing this <a href="https://youtu.be/cleTCtCNeQ0">addiction</a>.</p>
 
 <p><a href="https://youtu.be/bNpx7gpSqbY?t=209">Timing</a> is everything</p>
